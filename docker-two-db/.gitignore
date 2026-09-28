@@ -1,0 +1,8 @@
+state/
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.auto.tfvars
+redis-users.acl # Do not commit generated ACL file with plaintext password
+.terraform.lock.hcl

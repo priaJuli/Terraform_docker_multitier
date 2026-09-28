@@ -1,0 +1,4 @@
+vps_public_ip = "IP_PUBLIC_VPS"
+ssh_user    = "your_ssh_user"
+kafka_admin_password = "KAFKA_ADMIN_PASSWORD"
+kafka_user_password = "KAFKA_USER_PASSWORD"

@@ -4,4 +4,5 @@ state/
 .terraform/
 terraform.tfvars
 *.auto.tfvars
+.terraform.lock.hcl
 redis-users.acl # Do not commit generated ACL file with plaintext password
